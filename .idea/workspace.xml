@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9432b8b2-4e4e-4efc-8bca-43b9dafdbbf9" name="Changes" comment="Extract from 100 Days of Python">
+      <change afterPath="$PROJECT_DIR$/01_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_advanced_decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_render_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-57-start/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/40_flight_deals/data_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40_flight_deals/flight_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40_flight_deals/flight_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40_flight_deals/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/40_flight_deals/notification_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloYou.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_Jinja_template.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -47,15 +61,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.04_render_template.executor": "Run",
     "Python.hello.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Active/Flash_Card_App",
-    "settings.editor.selected.configurable": "terminal"
+    "last_opened_file_path": "D:/Active/001_Basic_Web",
+    "settings.editor.selected.configurable": "ai.codium.settings.CodiumSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Active\001_Basic_Web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Active\001_Basic_Web\day-57-start\templates" />
+      <recent name="D:\Active\001_Basic_Web\day-57-start" />
       <recent name="D:\Active\001_Basic_Web" />
     </key>
   </component>

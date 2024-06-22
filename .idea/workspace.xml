@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9432b8b2-4e4e-4efc-8bca-43b9dafdbbf9" name="Changes" comment="Chapter 58 finished">
-      <change afterPath="$PROJECT_DIR$/06_blog.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_blog/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_blog/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_blog/post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_forms/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_forms/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_advanced_forms/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_advanced_forms/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_advanced_forms/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_advanced_forms/templates/denied.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_advanced_forms/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_advanced_forms/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_advanced_forms/templates/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_coffeeshop_web/cafe-data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_coffeeshop_web/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_coffeeshop_web/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_coffeeshop_web/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_coffeeshop_web/templates/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_coffeeshop_web/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_coffeeshop_web/templates/cafes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_coffeeshop_web/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-62-coffee-and-wifi-end.zip" afterDir="false" />
+    <list default="true" id="9432b8b2-4e4e-4efc-8bca-43b9dafdbbf9" name="Changes" comment="New stuff 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718980797233</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New stuff">
+      <option name="closed" value="true" />
+      <created>1719051472100</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719051472100</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New stuff 2">
+      <option name="closed" value="true" />
+      <created>1719051490765</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719051490765</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +134,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Extract from 100 Days of Python" />
     <MESSAGE value="Chapter 58 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 58 finished" />
+    <MESSAGE value="New stuff" />
+    <MESSAGE value="New stuff 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="New stuff 2" />
   </component>
 </project>
